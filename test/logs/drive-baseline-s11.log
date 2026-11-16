@@ -1,0 +1,131 @@
+booted: true
+errors so far: []
+console: (clean)
+shot start.jpg: 36430 bytes
+shot start: errors=[]
+shot buy.jpg: 61555 bytes
+shot buy: errors=[]
+shot play.jpg: 36726 bytes
+shot play: errors=[]
+shot end.jpg: 33904 bytes
+shot end: errors=[]
+TEST MATCH: {
+ "seed": 11,
+ "steps": 28426,
+ "simSeconds": 473.76666666666665,
+ "rounds": 11,
+ "attackWins": 4,
+ "defendWins": 7,
+ "matchWinner": "defend",
+ "kills": 5,
+ "deaths": 11,
+ "money": 22050,
+ "stats": {
+  "botDeaths": 75,
+  "plants": 4,
+  "defuses": 0,
+  "rounds": [
+   {
+    "round": 1,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 3
+   },
+   {
+    "round": 2,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 3
+   },
+   {
+    "round": 3,
+    "winner": "attack",
+    "reason": "Bomb detonated",
+    "attackAlive": 1,
+    "defendAlive": 2
+   },
+   {
+    "round": 4,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 3
+   },
+   {
+    "round": 5,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 3
+   },
+   {
+    "round": 6,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 2
+   },
+   {
+    "round": 7,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 2
+   },
+   {
+    "round": 8,
+    "winner": "attack",
+    "reason": "Bomb detonated",
+    "attackAlive": 0,
+    "defendAlive": 4
+   },
+   {
+    "round": 9,
+    "winner": "attack",
+    "reason": "Bomb detonated",
+    "attackAlive": 0,
+    "defendAlive": 2
+   },
+   {
+    "round": 10,
+    "winner": "attack",
+    "reason": "Bomb detonated",
+    "attackAlive": 0,
+    "defendAlive": 2
+   },
+   {
+    "round": 11,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 2
+   }
+  ]
+ },
+ "errors": [],
+ "log": [
+  "match start",
+  "round 1: defend wins (Team eliminated) — alive A0/D3",
+  "round 2: defend wins (Team eliminated) — alive A0/D3",
+  "round 3: bomb planted on B",
+  "round 3: bomb detonated",
+  "round 3: attack wins (Bomb detonated) — alive A1/D2",
+  "round 4: defend wins (Team eliminated) — alive A0/D3",
+  "round 5: defend wins (Team eliminated) — alive A0/D3",
+  "round 6: defend wins (Team eliminated) — alive A0/D2",
+  "round 7: defend wins (Team eliminated) — alive A0/D2",
+  "round 8: bomb planted on B",
+  "round 8: bomb detonated",
+  "round 8: attack wins (Bomb detonated) — alive A0/D4",
+  "round 9: bomb planted on B",
+  "round 9: bomb detonated",
+  "round 9: attack wins (Bomb detonated) — alive A0/D2",
+  "round 10: bomb planted on B",
+  "round 10: bomb detonated",
+  "round 10: attack wins (Bomb detonated) — alive A0/D2",
+  "round 11: defend wins (Team eliminated) — alive A0/D2"
+ ]
+}
+console tail: (clean)

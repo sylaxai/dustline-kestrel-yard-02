@@ -1,0 +1,9 @@
+PASS  boot with no errors
+PASS  buy denied when broke, rifle+frag+armor bought — {"before":800,"money":1350,"ownedRifle":true,"weapon":"rifle","grenades":1,"armor":50}
+PASS  frag thrown and detonated without errors — {"before":1,"after":0,"errors":[]}
+PASS  empty mag reloads from reserve — {"empty":0,"mag":30,"reserve":60}
+PASS  player plants bomb, it detonates, attack wins round — {"planted":true,"plants":1,"phase":"roundEnd","attackWins":1,"bombStatus":"exploded","errors":[]}
+PASS  defender defuses planted bomb, defend wins round — {"planted":true,"defuses":1,"defendWins":1,"bombStatus":"defused","errors":[]}
+PASS  smoke blocks line of sight through it, not beside it — {"blocked":true,"clear":false}
+
+7/7 objective checks passed

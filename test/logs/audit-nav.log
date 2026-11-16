@@ -1,0 +1,179 @@
+{
+ "nodes": [
+  {
+   "i": 0,
+   "x": -16,
+   "z": 15,
+   "blocked": false
+  },
+  {
+   "i": 1,
+   "x": 0,
+   "z": 15,
+   "blocked": false
+  },
+  {
+   "i": 2,
+   "x": 16,
+   "z": 15,
+   "blocked": false
+  },
+  {
+   "i": 3,
+   "x": -16,
+   "z": 9,
+   "blocked": false
+  },
+  {
+   "i": 4,
+   "x": 0,
+   "z": 9,
+   "blocked": false
+  },
+  {
+   "i": 5,
+   "x": 16,
+   "z": 9,
+   "blocked": false
+  },
+  {
+   "i": 6,
+   "x": -16,
+   "z": 0,
+   "blocked": false
+  },
+  {
+   "i": 7,
+   "x": 0,
+   "z": 2,
+   "blocked": false
+  },
+  {
+   "i": 8,
+   "x": 16,
+   "z": 0,
+   "blocked": false
+  },
+  {
+   "i": 9,
+   "x": -6,
+   "z": 8,
+   "blocked": false
+  },
+  {
+   "i": 10,
+   "x": 6,
+   "z": 8,
+   "blocked": false
+  },
+  {
+   "i": 11,
+   "x": -16,
+   "z": -5,
+   "blocked": false
+  },
+  {
+   "i": 12,
+   "x": 0,
+   "z": -3.5,
+   "blocked": false
+  },
+  {
+   "i": 13,
+   "x": 16,
+   "z": -5,
+   "blocked": false
+  },
+  {
+   "i": 14,
+   "x": -20,
+   "z": -11,
+   "blocked": false
+  },
+  {
+   "i": 15,
+   "x": 20,
+   "z": -11,
+   "blocked": false
+  },
+  {
+   "i": 16,
+   "x": -18,
+   "z": -11,
+   "blocked": false
+  },
+  {
+   "i": 17,
+   "x": 18,
+   "z": -11,
+   "blocked": false
+  },
+  {
+   "i": 18,
+   "x": -10,
+   "z": -11,
+   "blocked": false
+  },
+  {
+   "i": 19,
+   "x": 10,
+   "z": -11,
+   "blocked": false
+  },
+  {
+   "i": 20,
+   "x": -4,
+   "z": -5,
+   "blocked": false
+  },
+  {
+   "i": 21,
+   "x": 4,
+   "z": -5,
+   "blocked": false
+  },
+  {
+   "i": 22,
+   "x": 0,
+   "z": -11,
+   "blocked": false
+  },
+  {
+   "i": 23,
+   "x": -10,
+   "z": -16.5,
+   "blocked": false
+  },
+  {
+   "i": 24,
+   "x": 10,
+   "z": -16.5,
+   "blocked": false
+  },
+  {
+   "i": 25,
+   "x": -8,
+   "z": 12,
+   "blocked": false
+  },
+  {
+   "i": 26,
+   "x": 8,
+   "z": 12,
+   "blocked": false
+  },
+  {
+   "i": 27,
+   "x": -12,
+   "z": -5,
+   "blocked": false
+  },
+  {
+   "i": 28,
+   "x": 12,
+   "z": -5,
+   "blocked": false
+  }
+ ],
+ "blockedEdges": []
+}

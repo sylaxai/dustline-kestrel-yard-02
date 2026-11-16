@@ -1,0 +1,11 @@
+booted: true
+errors so far: []
+console: (clean)
+shot start.jpg: 36613 bytes
+shot start: errors=[]
+shot buy.jpg: 61423 bytes
+shot buy: errors=[]
+shot play.jpg: 35995 bytes
+shot play: errors=[]
+shot end.jpg: 33973 bytes
+shot end: errors=[]

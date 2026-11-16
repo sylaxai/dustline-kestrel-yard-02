@@ -1,0 +1,94 @@
+booted: true
+errors so far: []
+console: (clean)
+shot start.jpg: 36430 bytes
+shot start: errors=[]
+shot buy.jpg: 61567 bytes
+shot buy: errors=[]
+shot play.jpg: 36191 bytes
+shot play: errors=[]
+shot end.jpg: 33939 bytes
+shot end: errors=[]
+TEST MATCH: {
+ "seed": 7,
+ "steps": 12203,
+ "simSeconds": 203.38333333333333,
+ "rounds": 7,
+ "attackWins": 0,
+ "defendWins": 7,
+ "matchWinner": "defend",
+ "kills": 0,
+ "deaths": 7,
+ "money": 14500,
+ "stats": {
+  "botDeaths": 44,
+  "plants": 3,
+  "defuses": 0,
+  "rounds": [
+   {
+    "round": 1,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 3
+   },
+   {
+    "round": 2,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 2
+   },
+   {
+    "round": 3,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 3
+   },
+   {
+    "round": 4,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 4
+   },
+   {
+    "round": 5,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 2
+   },
+   {
+    "round": 6,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 2
+   },
+   {
+    "round": 7,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 3
+   }
+  ]
+ },
+ "errors": [],
+ "log": [
+  "match start",
+  "round 1: bomb planted on B",
+  "round 1: defend wins (Team eliminated) — alive A0/D3",
+  "round 2: bomb planted on B",
+  "round 2: defend wins (Team eliminated) — alive A0/D2",
+  "round 3: defend wins (Team eliminated) — alive A0/D3",
+  "round 4: defend wins (Team eliminated) — alive A0/D4",
+  "round 5: bomb planted on B",
+  "round 5: defend wins (Team eliminated) — alive A0/D2",
+  "round 6: defend wins (Team eliminated) — alive A0/D2",
+  "round 7: defend wins (Team eliminated) — alive A0/D3"
+ ]
+}
+console tail: (clean)

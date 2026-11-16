@@ -1,0 +1,91 @@
+booted: true
+errors so far: []
+console: (clean)
+shot start.jpg: 36613 bytes
+shot start: errors=[]
+shot buy.jpg: 61423 bytes
+shot buy: errors=[]
+shot play.jpg: 35995 bytes
+shot play: errors=[]
+shot end.jpg: 33973 bytes
+shot end: errors=[]
+TEST MATCH: {
+ "seed": 7,
+ "steps": 12831,
+ "simSeconds": 213.85,
+ "rounds": 7,
+ "attackWins": 0,
+ "defendWins": 7,
+ "matchWinner": "defend",
+ "kills": 0,
+ "deaths": 7,
+ "money": 13550,
+ "stats": {
+  "botDeaths": 45,
+  "plants": 2,
+  "defuses": 0,
+  "rounds": [
+   {
+    "round": 1,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 3
+   },
+   {
+    "round": 2,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 2
+   },
+   {
+    "round": 3,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 2
+   },
+   {
+    "round": 4,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 2
+   },
+   {
+    "round": 5,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 3
+   },
+   {
+    "round": 6,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 3
+   },
+   {
+    "round": 7,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 3
+   }
+  ]
+ },
+ "errors": [],
+ "log": [
+  "match start",
+  "round 1: defend wins (Team eliminated) — alive A0/D3",
+  "round 2: defend wins (Team eliminated) — alive A0/D2",
+  "round 3: defend wins (Team eliminated) — alive A0/D2",
+  "round 4: defend wins (Team eliminated) — alive A0/D2",
+  "round 5: defend wins (Team eliminated) — alive A0/D3",
+  "round 6: defend wins (Team eliminated) — alive A0/D3",
+  "round 7: defend wins (Team eliminated) — alive A0/D3"
+ ]
+}
+console tail: (clean)

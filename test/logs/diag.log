@@ -1,0 +1,105 @@
+PASS  boot with no errors
+PASS  buy denied when broke, rifle+frag+armor bought — {"before":800,"money":1350,"ownedRifle":true,"weapon":"rifle","grenades":1,"armor":50}
+PASS  frag thrown and detonated without errors — {"before":1,"after":0,"errors":[]}
+PASS  empty mag reloads from reserve — {"empty":0,"mag":30,"reserve":60}
+FAIL  player plants bomb, it detonates, attack wins round — {"planted":true,"plants":1,"phase":"buy","attackWins":0,"bombStatus":"carried","errors":[]}
+[
+ {
+  "t": 0.5,
+  "phase": "round",
+  "bomb": "planting",
+  "planter": "player",
+  "hasE": true,
+  "px": -16,
+  "pz": -12.5,
+  "hp": 100,
+  "aAlive": 5,
+  "dAlive": 5
+ },
+ {
+  "t": 1,
+  "phase": "round",
+  "bomb": "planting",
+  "planter": "player",
+  "hasE": true,
+  "px": -16,
+  "pz": -12.5,
+  "hp": 100,
+  "aAlive": 5,
+  "dAlive": 5
+ },
+ {
+  "t": 1.5,
+  "phase": "round",
+  "bomb": "planting",
+  "planter": "player",
+  "hasE": true,
+  "px": -16,
+  "pz": -12.5,
+  "hp": 100,
+  "aAlive": 5,
+  "dAlive": 5
+ },
+ {
+  "t": 2,
+  "phase": "round",
+  "bomb": "planting",
+  "planter": "player",
+  "hasE": true,
+  "px": -16,
+  "pz": -12.5,
+  "hp": 100,
+  "aAlive": 5,
+  "dAlive": 5
+ },
+ {
+  "t": 2.5,
+  "phase": "round",
+  "bomb": "planting",
+  "planter": "player",
+  "hasE": true,
+  "px": -16,
+  "pz": -12.5,
+  "hp": 100,
+  "aAlive": 5,
+  "dAlive": 5
+ },
+ {
+  "t": 3,
+  "phase": "round",
+  "bomb": "planting",
+  "planter": "player",
+  "hasE": true,
+  "px": -16,
+  "pz": -12.5,
+  "hp": 100,
+  "aAlive": 5,
+  "dAlive": 5
+ },
+ {
+  "t": 3.5,
+  "phase": "round",
+  "bomb": "planted",
+  "planter": null,
+  "hasE": true,
+  "px": -16,
+  "pz": -12.5,
+  "hp": 100,
+  "aAlive": 5,
+  "dAlive": 5
+ },
+ {
+  "t": 4,
+  "phase": "round",
+  "bomb": "planted",
+  "planter": null,
+  "hasE": true,
+  "px": -16,
+  "pz": -12.5,
+  "hp": 100,
+  "aAlive": 4,
+  "dAlive": 4
+ }
+]
+PASS  smoke blocks line of sight through it, not beside it — {"blocked":true,"clear":false}
+diag done

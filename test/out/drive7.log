@@ -1,0 +1,29 @@
+booted: true
+errors so far: []
+console: EXCEPTION: {"exceptionId":17150,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"5","url":"http://127.0.0.1:45293/src/main.js","exception":{"type":"object","subtype":"error","className":"ReferenceError","description":"ReferenceError: state is not defined\n    at autopilotStep (http://127.0.0.1:45293/src/main.js:395:36)\n    at runTestFrame (http://127.0.0.1:45293/src/main.js:410:5)","objectId":"6729197447572375122.7.1"},"executionContextId":7}
+EXCEPTION: {"exceptionId":17151,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"5","url":"http://127.0.0.1:45293/src/main.js","exception":{"type":"object","subtype":"error","className":"ReferenceError","description":"ReferenceError: state is not defined\n    at autopilotStep (http://127.0.0.1:45293/src/main.js:395:36)\n    at runTestFrame (http://127.0.0.1:45293/src/main.js:410:5)","objectId":"6729197447572375122.7.2"},"executionContextId":7}
+EXCEPTION: {"exceptionId":17152,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"5","url":"http://127.0.0.1:45293/src/main.js","exception":{"type":"object","subtype":"error","className":"ReferenceError","description":"ReferenceError: state is not defined\n    at autopilotStep (http://127.0.0.1:45293/src/main.js:395:36)\n    at runTestFrame (http://127.0.0.1:45293/src/main.js:410:5)","objectId":"6729197447572375122.7.3"},"executionContextId":7}
+EXCEPTION: {"exceptionId":17153,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"5","url":"http://127.0.0.1:45293/src/main.js","exception":{"type":"object","subtype":"error","className":"ReferenceError","description":"ReferenceError: state is not defined\n    at autopilotStep (http://127.0.0.1:45293/src/main.js:395:36)\n    at runTestFrame (http://127.0.0.1:45293/src/main.js:410:5)","objectId":"6729197447572375122.7.4"},"executionContextId":7}
+EXCEPTION: {"exceptionId":17154,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"5","url":"http://127.0.0.1:45293/src/main.js","exception":{"type":"object","subtype":"error","className":"ReferenceError","description":"ReferenceError: state is not defined\n    at autopilotStep (http://127.0.0.1:45293/src/main.js:395:36)\n    at runTestFrame (http://127.0.0.1:45293/src/main.js:410:5)","objectId":"6729197447572375122.7.5"},"executionContextId":7}
+EXCEPTION: {"exceptionId":17155,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"5","url":"http://127.0.0.1:45293/src/main.js","exception":{"type":"object","subtype":"error","className":"ReferenceError","description":"ReferenceError: state is not defined\n    at autopilotStep (http://127.0.0.1:45293/src/main.js:395:36)\n    at runTestFrame (http://127.0.0.1:45293/src/main.js:410:5)","objectId":"6729197447572375122.7.6"},"executionContextId":7}
+EXCEPTION: {"exceptionId":17156,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"5","url":"http://127.0.0.1:45293/src/main.js","exception":{"type":"object","subtype":"error","className":"ReferenceError","description":"ReferenceError: state is not defined\n    at autopilotStep (http://127.0.0.1:45293/src/main.js:395:36)\n    at runTestFrame (http://127.0.0.1:45293/src/main.js:410:5)","objectId":"6729197447572375122.7.7"},"executionContextId":7}
+EXCEPTION: {"exceptionId":17157,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"5","url":"http://127.0.0.1:45293/src/main.js","exception":{"type":"object","subtype":"error","className":"ReferenceError","description":"ReferenceError: state is not defined\n    at autopilotStep (http://127.0.0.1:45293/src/main.js:395:36)\n    at runTestFrame (http://127.0.0.1:45293/src/main.js:410:5)","objectId":"6729197447572375122.7.8"},"executionContextId":7}
+EXCEPTION: {"exceptionId":17158,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"5","url":"http://127.0.0.1:45293/src/main.js","exception":{"type":"object","subtype":"error","className":"ReferenceError","description":"ReferenceError: state is not defined\n    at autopilotStep (http://127.0.0.1:45293/src/main.js:395:36)\n    at runTestFrame (http://127.0.0.1:45293/src/main.js:410:5)","objectId":"6729197447572375122.7.9"},"executionContextId":7}
+EXCEPTION: {"exceptionId":17159,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"5","url":"http://127.0.0.1:45293/src/main.js","exception":{"type":"object","subtype":"error","className":"ReferenceError","description":"ReferenceError: state is not defined\n    at autopilotStep (http://127.0.0.1:45293/src/main.js:395:36)\n    at runTestFrame (http://127.0.0.1:45293/src/main.js:410:5)","objectId":"6729197447572375122.7.10"},"executionContextId":7}
+shot start.jpg: 37596 bytes
+shot start: errors=[]
+shot buy.jpg: 61203 bytes
+shot buy: errors=[]
+shot play.jpg: 36191 bytes
+shot play: errors=[]
+shot end.jpg: 33939 bytes
+shot end: errors=[]
+file:///home/hatch/workspace/makefun-threejs-fps/test/drive.mjs:140
+  throw new Error(`timeout waiting for ${expression}`);
+        ^
+
+Error: timeout waiting for window.__testDone
+    at waitFor (file:///home/hatch/workspace/makefun-threejs-fps/test/drive.mjs:140:9)
+    at async file:///home/hatch/workspace/makefun-threejs-fps/test/drive.mjs:170:14
+
+Node.js v24.22.1

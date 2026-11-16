@@ -1,0 +1,20 @@
+booted: true
+errors so far: []
+console: (clean)
+shot start.jpg: 36430 bytes
+shot start: errors=[]
+shot buy.jpg: 61567 bytes
+shot buy: errors=[]
+shot play.jpg: 36191 bytes
+shot play: errors=[]
+shot end.jpg: 33939 bytes
+shot end: errors=[]
+file:///home/hatch/workspace/makefun-threejs-fps/test/drive.mjs:140
+  throw new Error(`timeout waiting for ${expression}`);
+        ^
+
+Error: timeout waiting for window.__testDone
+    at waitFor (file:///home/hatch/workspace/makefun-threejs-fps/test/drive.mjs:140:9)
+    at async file:///home/hatch/workspace/makefun-threejs-fps/test/drive.mjs:170:14
+
+Node.js v24.22.1

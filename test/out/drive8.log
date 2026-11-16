@@ -1,0 +1,131 @@
+booted: true
+errors so far: []
+console: EXCEPTION: {"exceptionId":52726,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","exception":{"type":"object","subtype":"error","className":"ReferenceError","description":"ReferenceError: state is not defined\n    at autopilotStep (http://127.0.0.1:41817/src/main.js:395:36)\n    at runTestFrame (http://127.0.0.1:41817/src/main.js:410:5)","objectId":"6729197447572375122.13.1"},"executionContextId":13}
+EXCEPTION: {"exceptionId":52727,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","exception":{"type":"object","subtype":"error","className":"ReferenceError","description":"ReferenceError: state is not defined\n    at autopilotStep (http://127.0.0.1:41817/src/main.js:395:36)\n    at runTestFrame (http://127.0.0.1:41817/src/main.js:410:5)","objectId":"6729197447572375122.13.2"},"executionContextId":13}
+EXCEPTION: {"exceptionId":52728,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","exception":{"type":"object","subtype":"error","className":"ReferenceError","description":"ReferenceError: state is not defined\n    at autopilotStep (http://127.0.0.1:41817/src/main.js:395:36)\n    at runTestFrame (http://127.0.0.1:41817/src/main.js:410:5)","objectId":"6729197447572375122.13.3"},"executionContextId":13}
+EXCEPTION: {"exceptionId":52729,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","exception":{"type":"object","subtype":"error","className":"ReferenceError","description":"ReferenceError: state is not defined\n    at autopilotStep (http://127.0.0.1:41817/src/main.js:395:36)\n    at runTestFrame (http://127.0.0.1:41817/src/main.js:410:5)","objectId":"6729197447572375122.13.4"},"executionContextId":13}
+EXCEPTION: {"exceptionId":52730,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","exception":{"type":"object","subtype":"error","className":"ReferenceError","description":"ReferenceError: state is not defined\n    at autopilotStep (http://127.0.0.1:41817/src/main.js:395:36)\n    at runTestFrame (http://127.0.0.1:41817/src/main.js:410:5)","objectId":"6729197447572375122.13.5"},"executionContextId":13}
+EXCEPTION: {"exceptionId":52731,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","exception":{"type":"object","subtype":"error","className":"ReferenceError","description":"ReferenceError: state is not defined\n    at autopilotStep (http://127.0.0.1:41817/src/main.js:395:36)\n    at runTestFrame (http://127.0.0.1:41817/src/main.js:410:5)","objectId":"6729197447572375122.13.6"},"executionContextId":13}
+EXCEPTION: {"exceptionId":52732,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","exception":{"type":"object","subtype":"error","className":"ReferenceError","description":"ReferenceError: state is not defined\n    at autopilotStep (http://127.0.0.1:41817/src/main.js:395:36)\n    at runTestFrame (http://127.0.0.1:41817/src/main.js:410:5)","objectId":"6729197447572375122.13.7"},"executionContextId":13}
+EXCEPTION: {"exceptionId":52733,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","exception":{"type":"object","subtype":"error","className":"ReferenceError","description":"ReferenceError: state is not defined\n    at autopilotStep (http://127.0.0.1:41817/src/main.js:395:36)\n    at runTestFrame (http://127.0.0.1:41817/src/main.js:410:5)","objectId":"6729197447572375122.13.8"},"executionContextId":13}
+EXCEPTION: {"exceptionId":52734,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","exception":{"type":"object","subtype":"error","className":"ReferenceError","description":"ReferenceError: state is not defined\n    at autopilotStep (http://127.0.0.1:41817/src/main.js:395:36)\n    at runTestFrame (http://127.0.0.1:41817/src/main.js:410:5)","objectId":"6729197447572375122.13.9"},"executionContextId":13}
+EXCEPTION: {"exceptionId":52735,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","exception":{"type":"object","subtype":"error","className":"ReferenceError","description":"ReferenceError: state is not defined\n    at autopilotStep (http://127.0.0.1:41817/src/main.js:395:36)\n    at runTestFrame (http://127.0.0.1:41817/src/main.js:410:5)","objectId":"6729197447572375122.13.10"},"executionContextId":13}
+shot start.jpg: 37596 bytes
+shot start: errors=[]
+shot buy.jpg: 61203 bytes
+shot buy: errors=[]
+shot play.jpg: 36191 bytes
+shot play: errors=[]
+shot end.jpg: 33939 bytes
+shot end: errors=[]
+TEST MATCH: {
+ "seed": 7,
+ "steps": 19837,
+ "simSeconds": 330.6166666666667,
+ "rounds": 9,
+ "attackWins": 2,
+ "defendWins": 7,
+ "matchWinner": "defend",
+ "kills": 2,
+ "deaths": 9,
+ "money": 17150,
+ "stats": {
+  "botDeaths": 60,
+  "plants": 3,
+  "defuses": 1,
+  "rounds": [
+   {
+    "round": 1,
+    "winner": "attack",
+    "reason": "Bomb detonated",
+    "attackAlive": 0,
+    "defendAlive": 3
+   },
+   {
+    "round": 2,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 3
+   },
+   {
+    "round": 3,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 2
+   },
+   {
+    "round": 4,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 3
+   },
+   {
+    "round": 5,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 3
+   },
+   {
+    "round": 6,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 2
+   },
+   {
+    "round": 7,
+    "winner": "attack",
+    "reason": "Bomb detonated",
+    "attackAlive": 0,
+    "defendAlive": 2
+   },
+   {
+    "round": 8,
+    "winner": "defend",
+    "reason": "Team eliminated",
+    "attackAlive": 0,
+    "defendAlive": 2
+   },
+   {
+    "round": 9,
+    "winner": "defend",
+    "reason": "Bomb defused",
+    "attackAlive": 0,
+    "defendAlive": 3
+   }
+  ]
+ },
+ "errors": [],
+ "log": [
+  "match start",
+  "round 1: bomb planted on B",
+  "round 1: bomb detonated",
+  "round 1: attack wins (Bomb detonated) — alive A0/D3",
+  "round 2: defend wins (Team eliminated) — alive A0/D3",
+  "round 3: defend wins (Team eliminated) — alive A0/D2",
+  "round 4: defend wins (Team eliminated) — alive A0/D3",
+  "round 5: defend wins (Team eliminated) — alive A0/D3",
+  "round 6: defend wins (Team eliminated) — alive A0/D2",
+  "round 7: bomb planted on B",
+  "round 7: bomb detonated",
+  "round 7: attack wins (Bomb detonated) — alive A0/D2",
+  "round 8: defend wins (Team eliminated) — alive A0/D2",
+  "round 9: bomb planted on B",
+  "round 9: bomb defused",
+  "round 9: defend wins (Bomb defused) — alive A0/D3"
+ ]
+}
+console tail: EXCEPTION: {"exceptionId":53762,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","stackTrace":{"callFrames":[{"functionName":"autopilotStep","scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","lineNumber":394,"columnNumber":35},{"functionName":"runTestFrame","scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","lineNumber":409,"columnNumber":4}]},"exception":{"type":"object","subtype":"error","className":"ReferenceError","descr
+EXCEPTION: {"exceptionId":53763,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","stackTrace":{"callFrames":[{"functionName":"autopilotStep","scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","lineNumber":394,"columnNumber":35},{"functionName":"runTestFrame","scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","lineNumber":409,"columnNumber":4}]},"exception":{"type":"object","subtype":"error","className":"ReferenceError","descr
+EXCEPTION: {"exceptionId":53764,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","stackTrace":{"callFrames":[{"functionName":"autopilotStep","scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","lineNumber":394,"columnNumber":35},{"functionName":"runTestFrame","scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","lineNumber":409,"columnNumber":4}]},"exception":{"type":"object","subtype":"error","className":"ReferenceError","descr
+EXCEPTION: {"exceptionId":53765,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","stackTrace":{"callFrames":[{"functionName":"autopilotStep","scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","lineNumber":394,"columnNumber":35},{"functionName":"runTestFrame","scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","lineNumber":409,"columnNumber":4}]},"exception":{"type":"object","subtype":"error","className":"ReferenceError","descr
+EXCEPTION: {"exceptionId":53766,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","stackTrace":{"callFrames":[{"functionName":"autopilotStep","scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","lineNumber":394,"columnNumber":35},{"functionName":"runTestFrame","scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","lineNumber":409,"columnNumber":4}]},"exception":{"type":"object","subtype":"error","className":"ReferenceError","descr
+EXCEPTION: {"exceptionId":53767,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","stackTrace":{"callFrames":[{"functionName":"autopilotStep","scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","lineNumber":394,"columnNumber":35},{"functionName":"runTestFrame","scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","lineNumber":409,"columnNumber":4}]},"exception":{"type":"object","subtype":"error","className":"ReferenceError","descr
+EXCEPTION: {"exceptionId":53768,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","stackTrace":{"callFrames":[{"functionName":"autopilotStep","scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","lineNumber":394,"columnNumber":35},{"functionName":"runTestFrame","scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","lineNumber":409,"columnNumber":4}]},"exception":{"type":"object","subtype":"error","className":"ReferenceError","descr
+EXCEPTION: {"exceptionId":53769,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","stackTrace":{"callFrames":[{"functionName":"autopilotStep","scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","lineNumber":394,"columnNumber":35},{"functionName":"runTestFrame","scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","lineNumber":409,"columnNumber":4}]},"exception":{"type":"object","subtype":"error","className":"ReferenceError","descr
+EXCEPTION: {"exceptionId":53770,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","stackTrace":{"callFrames":[{"functionName":"autopilotStep","scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","lineNumber":394,"columnNumber":35},{"functionName":"runTestFrame","scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","lineNumber":409,"columnNumber":4}]},"exception":{"type":"object","subtype":"error","className":"ReferenceError","descr
+EXCEPTION: {"exceptionId":53771,"text":"Uncaught","lineNumber":394,"columnNumber":35,"scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","stackTrace":{"callFrames":[{"functionName":"autopilotStep","scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","lineNumber":394,"columnNumber":35},{"functionName":"runTestFrame","scriptId":"105","url":"http://127.0.0.1:41817/src/main.js","lineNumber":409,"columnNumber":4}]},"exception":{"type":"object","subtype":"error","className":"ReferenceError","descr
